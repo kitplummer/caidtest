@@ -1,1 +1,1 @@
-echo "# caidtest" >> README.md
+"# caidtest" >> README.md
